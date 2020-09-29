@@ -1,5 +1,8 @@
 # Auto_screenshot
 
-procedures
-1. $g++ -o screenshots screenshots.cpp  // please compile "screenshots.cpp"
-2. $./ext.sh                            // run "exe.sh" 
+This system creates a directory called "mypic" in your current directory and recodes screenshots in it.
+
+Procedures:
+g++ -o screenshots screenshots.cpp   # please compile "screenshots.cpp"
+./ext.sh                             # run "exe.sh" 
+
