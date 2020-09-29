@@ -1,5 +1,4 @@
 #!/bin/bash
-
 if [ -d ./mypic ]; then
 	echo 'Directory "mypic" already exists.'
 	echo "Screenshots will be added to this directory, are you sure?"
