@@ -3,6 +3,6 @@
 This system creates a directory called "mypic" in your current directory and recodes screenshots in it.
 
 Procedures:
-g++ -o screenshots screenshots.cpp   # please compile "screenshots.cpp"
+g++ -o screenshot screenshot.cpp   # please compile "screenshot.cpp"
 ./exe.sh                             # run "exe.sh" 
 
