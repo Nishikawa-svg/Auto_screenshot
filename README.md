@@ -4,5 +4,5 @@ This system creates a directory called "mypic" in your current directory and rec
 
 Procedures:
 g++ -o screenshots screenshots.cpp   # please compile "screenshots.cpp"
-./ext.sh                             # run "exe.sh" 
+./exe.sh                             # run "exe.sh" 
 
